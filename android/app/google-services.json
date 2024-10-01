@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "993620848779",
+    "project_id": "pomcard-ddb80",
+    "storage_bucket": "pomcard-ddb80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993620848779:android:219f6cb87a4215cfc9648e",
+        "android_client_info": {
+          "package_name": "com.example.pomcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993620848779-41a4l6o43n02clhn1akkojvvkq190tma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pomcard",
+            "certificate_hash": "1995a18e29ede28649e49bd3de0044f4a50a6276"
+          }
+        },
+        {
+          "client_id": "993620848779-8aq5o9lpsr3mapbus0imbv5r5tpjv692.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQNnOJXki0k25CEkYUpaXKLEXYejF6C2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993620848779-8aq5o9lpsr3mapbus0imbv5r5tpjv692.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "993620848779-edaqcgda2fkr5lnsssbquhuhurdtbo6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pomcard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
